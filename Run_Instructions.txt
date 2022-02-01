@@ -1,0 +1,16 @@
+1.Create an application on developer twitter account.
+
+2.Keep all the credentials of the app in pwd.py file like the below example
+consumer_key = "consumer_key"
+consumer_secret = "consumer_secret"
+access_token = "access_token"
+access_token_secret = "access_token_secret"
+
+3.Install the below packages
+tweepy
+pandas
+matplotlib
+
+
+4.Run the code.
+ 
